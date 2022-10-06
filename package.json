@@ -1,0 +1,15 @@
+{
+  "name": "NodeJS",
+  "version": "1.0.0",
+  "description": "Estudo de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "Bruno Galvão",
+  "license": "MIT",
+  "keywords": [],
+  "devDependencies": {
+    "cfonts": "^3.1.1"
+  }
+}
